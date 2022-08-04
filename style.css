@@ -1,10 +1,12 @@
-<title> style.css </title>
-
 body
 {
 text-align: center;
 background: #cccccc;
- 
+}
+
+h1
+{
+color:#172e94 
 }
 strong
 {
@@ -16,3 +18,6 @@ h1
 
 h3
 {font-size: 250x;}
+
+p
+{font-size: 20px;}
